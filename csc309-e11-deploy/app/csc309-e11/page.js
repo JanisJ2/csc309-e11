@@ -1,3 +1,5 @@
+export const dynamic = "force-dynamic"; // Add this line to prevent caching
+
 export default function AutoTester() {
   return (
     <div id="auto-tester">
